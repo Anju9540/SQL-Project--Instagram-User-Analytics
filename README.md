@@ -5,6 +5,7 @@ This project analyzes Instagram user activity based on provided insights in the 
 
 ## 📂 Repository Contents
 - **`Trainity project 2 - Instagram User Analytics.pdf`**: The complete report detailing the analysis.
+-     The above uploaded pdf will show all the analysis I haev done in MY SQL workbench , where various indights and number along with proper explaination and code is given
 
 ## 📊 Key Insights
 - **Most Active Users**: Users with high posting frequency drive engagement.
